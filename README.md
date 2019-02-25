@@ -1,2 +1,2 @@
 # jacobcoxndsu.github.io
-SIte version of my project
+Site version of my project
